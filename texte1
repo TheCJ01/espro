@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<HTML LANG="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> Pagina espro </title>
+    <style>
+    .paginaespro {
+    width:500px;
+    height:500px;
+    border: 15px groove red;
+    }
+    .construcao {
+      background-color: yellow;
+      color: red; font-size: 2em;
+    }
+  
+    </style>
+  </head>
+  <body>
+    <div class="paginaespro">
+      <img src="">
+      <marquee><p class="construcao"> <strong>A pagina está em construção </strong> </p></marquee>
+  
+  
+  
+  
+  
+  
+  </body>
+</html>  
